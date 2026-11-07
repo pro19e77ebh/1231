@@ -1,10 +1,3 @@
-*-- [[*
-*-- Towers: Gatling Gun, DJ Booth, EvolvedOperator, EvolvedEnforcer, Engineer*
-*-- Mode: Frost*
-*-- GameInfo: Unknown*
-*-- Map: Simplicity*
-*-- Modifiers: None*
-*-- ]]*
 -- [[ Wave 1 ]] --
 PSH:Place("EvolvedOperator", -12.279, 1.000, -3.349)
 PSH:Upgrade(1)
